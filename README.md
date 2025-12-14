@@ -199,11 +199,11 @@ feat: implement sweets purchase API
 
 🌍 Deployment (Optional)
 
-🔗 Live Application: (Add link if deployed)
+🔗 Live Application: https://sweet-shop-management-system-35jj.vercel.app/
 
 Frontend: Vercel 
 
-Backend: Supabase + Render / Railway
+Backend: Supabase + Render 
 
 ✅ Assignment Compliance Checklist
 
