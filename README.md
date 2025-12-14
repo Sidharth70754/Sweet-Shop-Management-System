@@ -10,6 +10,15 @@ It allows users to browse, search, and purchase sweets, while admin users can ma
 
 The system follows clean architecture, RESTful API design, and modern frontend practices, with strong test coverage and transparent AI usage.
 
+----------------------------------------------------------------------------------
+Deployement URL: https://sweet-shop-management-system-35jj.vercel.app/
+
+1: signup the account 
+2: after that there is one conformation mail accept it 
+3: Then, signin the account after that redirect into home page.
+
+----------------------------------------------------------------------------------
+
 🧱 Tech Stack
 Backend
 
