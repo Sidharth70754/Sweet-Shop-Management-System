@@ -1,6 +1,3 @@
--- =====================================================
--- FIX PURCHASE PERMISSIONS - Run this if purchases fail
--- =====================================================
 
 -- Ensure users can create purchases
 DROP POLICY IF EXISTS "Users can create their own purchases" ON public.purchases;
@@ -16,7 +13,6 @@ CREATE POLICY "Users can delete their own purchases"
   TO authenticated
   USING (auth.uid() = user_id);
 
--- =====================================================
--- ✅ Done! Purchase creation and deletion should work now
--- =====================================================
+
+
 
